@@ -1,0 +1,127 @@
+[[OSQP]]
+arch = "aarch64"
+git-tree-sha1 = "60c908ba01abe2d66bce48c04e061fa31340292b"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "1856c7c6a9d34592049b0d00b8f0d0b69a22add220f5ed18009e7dd49eaa6856"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "aarch64"
+git-tree-sha1 = "b6ff27097e71e4586ba69daadb2acc22a0b7b38d"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "9268784b57d72790703160f717f767303e8a8fef683a6011325415bf0df1c8fc"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.aarch64-linux-musl.tar.gz"
+[[OSQP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c758bbec0b749f6d64b57cbd44d2e5b61a8cb29f"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "5f69bd113614c6d2dfbc29bb79f370940bb17bf746c974876bb568003460fbfc"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[OSQP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4713213f8e7c837893fdab2297b8e0df3faf13d4"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "f878d3fa28631694e94fb2448d4f4ad1bbdb6cfb145f916ee910b9ebec69eb68"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[OSQP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4ac7f4121d7cc9004ddacf941810d2cfb06d1ae3"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "da721d5de848450acfc1f635020de0c95ff3650164c46b12410e850e3f981aa6"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[OSQP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "62a6007fb7ee6d60e0151c2d84acdafe1f97a30c"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "42ec010267411d8b0ae768978c2a2229affa72ff2e5d8464e53efae024a21907"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[OSQP]]
+arch = "i686"
+git-tree-sha1 = "40b85b5883b5554cf173803676f315e7d0a5583c"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "a06f085b235812e29d6dd1891941125509d5ccc3136a10392bb8d3e3731542df"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.i686-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "i686"
+git-tree-sha1 = "5d38fc746c8514312ba24ade21bc245dc88957f3"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "fdd998ba5f66ce313681619cc3c84808904778463c4d48e84ca0ea46d0125ef8"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.i686-linux-musl.tar.gz"
+[[OSQP]]
+arch = "i686"
+git-tree-sha1 = "6a32887fe839f40ff990175bcc785e827997f2f4"
+os = "windows"
+
+    [[OSQP.download]]
+    sha256 = "e44b7361e1a790032eec58e04fd015f1e0c4a807c77c7e8ea975bb7c599e522c"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.i686-w64-mingw32.tar.gz"
+[[OSQP]]
+arch = "powerpc64le"
+git-tree-sha1 = "8cc77c6aa637b665859cc16d7fc8e186b7dfd97d"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "5245fb8935ff01843d2262bfd68fe0fa1bb46d46cf08c283db175eb6ea29d04f"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "011b5ebafa6402dc4118d12282accb790301f8d2"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "d354c1414ee561857c3e90352b9f1e48ff6ac25b0e9bf3e26ee5cd04d3e9386f"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "03fb9e91386c20123b21044533d97582ddbbacfa"
+libc = "musl"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "612848c36ee6abd58bb04c884bbd761d48bd882b7937c63b57f06fffba5181db"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.x86_64-linux-musl.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "0812c7c25bf64b66725693c1fe631188118f6df6"
+os = "freebsd"
+
+    [[OSQP.download]]
+    sha256 = "90361e3cbe0863ec2ea78af0a154a94b7b08701295f8a6838b81fe56d8511ee5"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "bfc76aec371b2712afb28354c9e9b3b88f60476d"
+os = "windows"
+
+    [[OSQP.download]]
+    sha256 = "fe6784c4ded200c3b7fd1cd1d28ee5ea93c246d188b1dd5c0fbc470e57a93001"
+    url = "https://github.com/vineetbansal/OSQP_jll.jl/releases/download/OSQP-v1.0.0+0/OSQP.v1.0.0.x86_64-w64-mingw32.tar.gz"
